@@ -5,7 +5,7 @@ main:
   - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
-  #   url: /year-archive/
+     url: https://julianajlee.github.io/pages
    - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
