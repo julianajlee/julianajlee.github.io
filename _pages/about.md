@@ -32,7 +32,7 @@ Relevant  courses:  Epigenetics  (BIOSE30;  grade  A), Bioinformatics  (BIOTE104
 
 ## Academic journey.
 
-### =2020 - present=
+### ==2020 - present==
 *Research Assistant*, Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
 
 Project 1:
