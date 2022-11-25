@@ -35,7 +35,7 @@ docs:
       - title: "Education"
         url: /docs/about
       - title: "Certificate"
-        url: "/_pages/about.md"
+        url: "/_pages/about"
       - title: "Research"
         url: /docs/installation
 
