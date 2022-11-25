@@ -1,9 +1,11 @@
 ---
+permalink: /pages/about/
 layout: page
 title: "About"
+tags:
+  - table of contents
 toc: true
 toc_sticky: true
-permalink: /pages/about/
 ---
 
 # About me.
