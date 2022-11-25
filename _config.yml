@@ -20,7 +20,7 @@ locale                   : "en-US"
 title_separator          : " | "
 # subtitle                 : "Records of my journey" # site tagline that appears below site title in masthead
 name                     : "Juliana Lee"
-description              : "Quiely documenting many roller coasters of my life."
+description              : "Quietly documenting many roller coasters of my life."
 url                      : "http://julianajlee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julianajlee/julianajlee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,10 +106,12 @@ analytics:
 author:
   name             : "Juliana J Lee, MSc"
   avatar           : "/assets/images/headshot.png"
-  bio              : "Quiely documenting many roller coasters of my life."
+  bio              : "Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :)
+What makes a cell, a cell? How are T cells developed? B cells? Macrophages?
+As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/) community, I am on a mission to profile *epigenomics* and *transcriptomics* of various immune cell types."
   location         : "Boston, MA"
-  email            : "juliana_lee@hms.harvard.edu"
-  url              : "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
+  # email            : "juliana_lee@hms.harvard.edu"
+  # url              : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
