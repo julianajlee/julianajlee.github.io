@@ -33,7 +33,7 @@ docs:
   - title: About me.
     children:
       - title: "Education"
-        url: "/_pages/about.md"
+        url: /docs/_pages/about.md
       - title: "Certificate"
         url: "/_pages/about.md"
       - title: "Research"
