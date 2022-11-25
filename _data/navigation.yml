@@ -43,19 +43,27 @@ docs:
       - title: "Public work"
         url: /_pages/public/
 
-  - title: Publication
+  - title: Publication.
     children:
       - title: "Thesis"
         url: /_pages/thesis/
       - title: "Manuscript in progress"
         url: /_pages/manuscript/
+  
+  - title: Code.
+    children:
+      - title: "Omics analysis"
+        url: _pages/omics/
+      - title: "AI - CS50"
+        url: _pages/cs50/
 
-  - title: COVID19 Recovery
+  - title: COVID19 Recovery.
     children:
       - title: "Website"
         url: "https://www.covid19recovery.net"
       - title: "instagram"
         url: "https://www.instagram.com/covid19recovery/?hl=en"
-  - title: Photography
+        
+  - title: Photography.
     children:
       - title: "Coming soon!"
