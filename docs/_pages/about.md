@@ -2,6 +2,8 @@
 title: "About"
 excerpt: "Me, myself and I!"
 permalink: /about
+toc: true
+toc_sticky: true
 ---
 
 # About me.
