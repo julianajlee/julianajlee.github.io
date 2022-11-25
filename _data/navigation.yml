@@ -13,7 +13,7 @@
 
 main:
   - title: "About"
-    url: "/_pages/about/"
+    url: "/_pages/about.md"
 
   - title: "CV"
     url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
