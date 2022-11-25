@@ -296,6 +296,7 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+        toc: true
   # _pages
   - scope:
       path: ""
@@ -309,6 +310,7 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+        toc: true
   # _docs
   - scope:
       path: ""
@@ -322,3 +324,4 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+        toc: true
