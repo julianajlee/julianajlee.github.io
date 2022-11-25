@@ -8,31 +8,32 @@ toc: true
 
 # About me.
 
-Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :thinking:
+Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :)
 What makes a cell, a cell? How are T cells developed? B cells? Macrophages?
 As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/) community, I am on a mission to profile *epigenomics* and *transcriptomics* of various immune cell types. 
 
 ## Education.
 **University  of  Oxford**,  Nuffield  Department  of  Clinical  Medicine  Oxford,  UK
-**MSc  by  Research**,  Clinical  Medicine  2018-2021
-Dissertation:  A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  parasite  invasion
-Advisor:  Professor  Alexander  (Sandy)  Douglas
+
+- **MSc  by  Research**,  Clinical  Medicine  2018-2021
+- Dissertation:  A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  parasite  invasion
+- Advisor:  Professor  Alexander  (Sandy)  Douglas
 
 
 **University  of  Toronto**,  Faculty  of  Arts  and  Science  Toronto,  ON,  Canada
-**Honours  Bachelor  of  Science  (with  high  distinction)**  2014-2018
-Majors:  Immunology  and  Biochemistry
-Dissertation: Effect  of  Type  I  and  Type  II  interferons   on  GITR  ligand  expression  in  inflammatory  antigen presenting cells
+- **Honours  Bachelor  of  Science  (with  high  distinction)**  2014-2018
+- Majors:  Immunology  and  Biochemistry
+- Dissertation: Effect  of  Type  I  and  Type  II  interferons   on  GITR  ligand  expression  in  inflammatory  antigen presenting cells
 Undergraduate  research  advisor:  Professor  Tania  Watts
 
 ## Certificate.
 **Harvard  Extension  School** Boston,  MA, US
-**Bioinformatics  Graduate  Certificate**  2021-2022
-Relevant  courses:  Epigenetics  (BIOSE30;  grade  A), Bioinformatics  (BIOTE104;  grade  A-),  Biostatistics  (STATS  E-102;  grade  A-), Artificial Intelligence (CSCI E-80; grade B)
+- **Bioinformatics  Graduate  Certificate**  2021-2022
+- Courses:  Epigenetics  (BIOSE30;  grade  A), Bioinformatics  (BIOTE104;  grade  A-),  Biostatistics  (STATS  E-102;  grade  A-), Artificial Intelligence (CSCI E-80; grade B)
 
 ## Academic journey.
 
-### ==2020 - present==
+### 2020-present
 *Research Assistant*, Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
 
 Project 1:
