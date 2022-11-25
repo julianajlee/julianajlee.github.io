@@ -2,11 +2,13 @@
 title: "Certificate"
 permalink: /_pages/certificate/
 tags:
-  - table of contents
+  - Harvard, CV
 toc: true
 ---
 # Certificate
-</br>
+
+
+
 
 ## 2022
 
