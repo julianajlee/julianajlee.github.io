@@ -106,8 +106,9 @@ analytics:
 author:
   name             : "Juliana J Lee, MSc"
   avatar           : "/assets/images/headshot.png"
-  bio              : "Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :) <br/>
-What makes a cell, a cell? How are T cells developed? B cells? Macrophages? <br/>
+  bio              : "Hi there! <br/> My name is Juliana J. Lee, an **immunology** enthusiast :) <br/>
+What makes a cell, a cell? <br/>
+How are T cells developed? B cells? Macrophages? <br/>
 As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/) community, I am on a mission to profile *epigenomics* and *transcriptomics* of various immune cell types."
   location         : "Boston, MA"
   # email            : "juliana_lee@hms.harvard.edu"
