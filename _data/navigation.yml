@@ -12,23 +12,18 @@
   #   url: /sitemap/
 
 main:
-  - title: "Quick-Start Guide"
+  - title: "About"
     url: /docs/quick-start-guide/
 
-  - title: "Posts"
+  - title: "CV"
     url: /year-archive/
 
-  - title: "Categories"
+  - title: "Projects"
     url: /categories/
 
-  - title: "Tags"
+  - title: "Photography"
     url: /tags/
 
   - title: "Pages"
     url: /page-archive/
-
-  - title: "Collections"
-    url: /collection-archive/
-
-  - title: "External Link"
-    url: https://google.com
+    
