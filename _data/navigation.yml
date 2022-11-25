@@ -19,7 +19,7 @@ main:
     url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
 
   - title: "Projects"
-    url: /categories/
+    url: "/_pages/testing.html"
 
   - title: "Photography"
     url: /tags/
