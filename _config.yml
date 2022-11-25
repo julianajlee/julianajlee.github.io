@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julianajlee/julianajlee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/images/logo.jpeg"
 # logo                     : "/assets/images/logo.jpeg"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+# masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
