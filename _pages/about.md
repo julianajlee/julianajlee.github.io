@@ -15,7 +15,7 @@ Click a category below to read a brief summary on what I had accomplished:
 <!-- TOC -->
    1. [Education](#Education)
    2. [Certificate](#Certificate)
-   3. [Academic journey](#Academic_journey)
+   3. [Academic journey](#Academic journey)
    4. [Publication](#Publication)
    5. [Award](#Award)
    6. [Public engagement](#Public_engagement)
