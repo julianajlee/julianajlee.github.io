@@ -33,18 +33,18 @@ docs:
   - title: About me.
     children:
       - title: "Education"
-        url: /docs/about
+        url: /_pages/education/
       - title: "Certificate"
-        url: /_pages/about/
+        url: /_pages/certificate/
       - title: "Research"
-        url: /docs/installation
+        url: /_pages/research
 
   - title: Publication
     children:
       - title: "Thesis"
-        url: /docs/posts/
+        url: /_pages/thesis
       - title: "Manuscript in progress"
-        url: /docs/posts/
+        url: /_pages/manuscript
 
   - title: COVID19 Recovery
     children:
