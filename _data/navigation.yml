@@ -33,11 +33,11 @@ docs:
   - title: About me.
     children:
       - title: "Education"
-        url: /docs/_pages/about.md
+        url: /docs/about
       - title: "Certificate"
         url: "/_pages/about.md"
       - title: "Research"
-        url: /docs/installation/
+        url: /docs/installation
 
   - title: Publication
     children:
