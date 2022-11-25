@@ -285,7 +285,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/_posts/2022-11-24-EXAMPLE.md"
+      path: ""
       type: posts
     values:
       layout: single
@@ -296,7 +296,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "/_pages/about.md"
+      path: ""
       type: pages
     values:
       layout: single
