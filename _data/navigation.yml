@@ -40,6 +40,8 @@ docs:
         url: /_pages/research/
       - title: "Awards"
         url: /_pages/awards/
+      - title: "Public work"
+        url: /_pages/public/
 
   - title: Publication
     children:
