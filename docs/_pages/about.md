@@ -1,9 +1,7 @@
 ---
 title: "About"
 excerpt: "Me, myself and I!"
-sitemap: false
 permalink: /about
-toc: true
 ---
 
 # About me.
