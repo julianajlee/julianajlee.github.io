@@ -37,7 +37,9 @@ docs:
       - title: "Certificate"
         url: /_pages/certificate/
       - title: "Research"
-        url: /_pages/research
+        url: /_pages/research/
+      - title: "Awards"
+        url: /_pages/awards
 
   - title: Publication
     children:
