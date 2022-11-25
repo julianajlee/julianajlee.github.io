@@ -2,7 +2,7 @@
 title: "Education"
 permalink: /_pages/education/
 tags:
-  - table of contents
+  - cv
 toc: true
 ---
 
