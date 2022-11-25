@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juliana J Lee"
+title                    : "Juliana J. Lee"
 title_separator          : " | "
 subtitle                 : "Records of my journey" # site tagline that appears below site title in masthead
 name                     : "Juliana Lee"
-description              : "A website documenting my codes and activities in life."
-url                      : "https://julianajlee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Quiely documenting many roller coasters of my life."
+url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julianajlee/julianajlee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/download20200903094731.png" path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -70,8 +70,8 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id       : 845c830f07bff4acf
+  instant_search         : true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "Juliana J Lee"
   avatar           : # "/assets/images/download20200903094731.png" path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Quiely documenting many roller coasters of my life."
   location         : "Boston, MA"
   email            : "juliana_lee@hms.harvard.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:juliana_lee@hms.harvard.edu"
-    - label: "Website"
+    - label: "COVID19Recovery Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.covid19recovery.net/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,9 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "COVID19Recovery Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/covid19recovery/?hl=en"
 
 # Site Footer
 footer:
