@@ -1,7 +1,6 @@
 ---
-permalink: /about/
 layout: page
-title: "Juliana Lee"
+title: "About"
 ---
 
 # About me.
