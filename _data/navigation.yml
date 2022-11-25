@@ -25,46 +25,30 @@ main:
     url: /tags/
 
 docs:
+  - title: CV.
+    children:
+      - title: "Download"
+        url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
+        
   - title: About me.
     children:
       - title: "Education"
-        url: /docs/education
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
+        url: "/_pages/about.md"
+      - title: "Certificate"
+        url: "/_pages/about.md"
+      - title: "Research"
         url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: 
+  - title: Publication
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
+      - title: "Thesis"
         url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Manuscript in progress"
+        url: /docs/posts/
 
-  - title: Extras
+  - title: COVID19 Recovery
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Website"
+        url: "https://www.covid19recovery.net"
+      - title: "instagram"
+        url: "https://www.instagram.com/covid19recovery/?hl=en"
