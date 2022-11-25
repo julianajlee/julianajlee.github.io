@@ -27,7 +27,7 @@ repository               : "julianajlee/julianajlee.github.io" # GitHub username
 teaser                   : # "/assets/images/download20200903094731.png" path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/download20200903094731.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Juliana J Lee" # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Juliana J Lee"
-  avatar           : # "/assets/images/download20200903094731.png" path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.png"
   bio              : "Quiely documenting many roller coasters of my life."
   location         : "Boston, MA"
   email            : "juliana_lee@hms.harvard.edu"
