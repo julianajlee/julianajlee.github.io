@@ -12,19 +12,6 @@ Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :thinking:
 What makes a cell, a cell? How are T cells developed? B cells? Macrophages?
 As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/) community, I am on a mission to profile *epigenomics* and *transcriptomics* of various immune cell types. 
 
-Click a category below to read a brief summary on what I had accomplished:
-
-<!-- TOC -->
-   1. [Education](#Education)
-   2. [Certificate](#Certificate)
-   3. [Academic journey](#Academic-journey)
-   4. [Publication](#Publication)
-   5. [Award](#Award)
-   6. [Public engagement](#Public-engagement)
-<!-- /TOC -->
-
-If you would like to download my CV, please click here.
-
 ## Education.
 **University  of  Oxford**,  Nuffield  Department  of  Clinical  Medicine  Oxford,  UK
 **MSc  by  Research**,  Clinical  Medicine  2018-2021
