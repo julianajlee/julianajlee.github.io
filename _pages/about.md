@@ -8,6 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
+{% include nav_list nav="docs" %}
+
 # About me.
 
 Hi there! My name is Juliana J. Lee, an **immunology** enthusiast :thinking:
