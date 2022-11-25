@@ -38,8 +38,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 3
+    colorscheme          : "light" #  (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -129,6 +129,8 @@ author:
     - label: "COVID19Recovery Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/covid19recovery/?hl=en"
+  toc: true
+  toc_sticky: true
 
 # Site Footer
 footer:
@@ -296,7 +298,9 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-        toc: true
+      toc: true
+      toc_sticky: true
+      
   # _pages
   - scope:
       path: ""
@@ -310,7 +314,9 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-        toc: true
+      toc: true
+      toc_sticky: true
+      
   # _docs
   - scope:
       path: ""
@@ -324,4 +330,5 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-        toc: true
+      toc: true
+      toc_sticky: true
