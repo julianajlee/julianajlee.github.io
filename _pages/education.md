@@ -1,6 +1,6 @@
 ---
 title: "Education"
-permalink: /_pages/education/
+permalink: /education/
 tags:
   - cv
 toc: true
