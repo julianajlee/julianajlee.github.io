@@ -9,14 +9,14 @@ toc: true
 
 # Education.
 
-
+</br>
 
 ## 2018-2021
 **University  of  Oxford**,  Nuffield  Department  of  Clinical  Medicine  Oxford,  UK
   - **MSc  by  Research**,  Clinical  Medicine
   - Dissertation:  A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  parasite  invasion
   - Advisor:  Professor  Alexander  (Sandy)  Douglas
-
+</br>
 
 ## 2014-2018
 **University  of  Toronto**,  Faculty  of  Arts  and  Science  Toronto,  ON,  Canada
@@ -24,6 +24,7 @@ toc: true
   - Majors:  Immunology  and  Biochemistry
   - Dissertation: Effect  of  Type  I  and  Type  II  interferons   on  GITR  ligand  expression  in  inflammatory  antigen presenting cells
   - Undergraduate  research  advisor:  Professor  Tania  Watts
+</br>
 
 ## 2011-2014
 **A. Y. Jackson Secondary Schoo**l, Toronto, ON, Canada
