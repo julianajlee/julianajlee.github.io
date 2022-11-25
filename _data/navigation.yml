@@ -25,10 +25,10 @@ main:
     url: /tags/
 
 docs:
-  - title: Getting Started
+  - title: About me.
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Education"
+        url: /docs/education
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
