@@ -285,7 +285,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/_posts/2022-11-24-EXAMPLE.md"
       type: posts
     values:
       layout: single
