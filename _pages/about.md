@@ -3,6 +3,7 @@ layout: page
 title: "About"
 toc: true
 toc_sticky: true
+permalink: /about/
 ---
 
 # About me.
