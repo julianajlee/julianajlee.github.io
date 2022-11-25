@@ -39,14 +39,14 @@ docs:
       - title: "Research"
         url: /_pages/research/
       - title: "Awards"
-        url: /_pages/awards
+        url: /_pages/awards/
 
   - title: Publication
     children:
       - title: "Thesis"
-        url: /_pages/thesis
+        url: /_pages/thesis/
       - title: "Manuscript in progress"
-        url: /_pages/manuscript
+        url: /_pages/manuscript/
 
   - title: COVID19 Recovery
     children:
