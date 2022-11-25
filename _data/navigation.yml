@@ -11,18 +11,18 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 
-main:
-  - title: "About"
-    url: "/_pages/about.md"
+# main:
+#  - title: "About"
+#    url: "/_pages/about.md"
 
-  - title: "CV"
-    url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
+#  - title: "CV"
+#    url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
 
-  - title: "Projects"
-    url: "/_pages/testing.html"
-
-  - title: "Photography"
-    url: /tags/
+#  - title: "Projects"
+#    url: "/_pages/testing.html"
+#
+#  - title: "Photography"
+#    url: /tags/
 
 docs:
   - title: CV.
@@ -52,3 +52,6 @@ docs:
         url: "https://www.covid19recovery.net"
       - title: "instagram"
         url: "https://www.instagram.com/covid19recovery/?hl=en"
+  - title: Photography
+    children:
+      - title: "Coming soon!"
