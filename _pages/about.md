@@ -1,11 +1,9 @@
 ---
-permalink: /pages/about/
-layout: page
 title: "About"
+permalink: /_pages/about/
 tags:
   - table of contents
 toc: true
-toc_sticky: true
 ---
 
 {% include nav_list nav="docs" %}
