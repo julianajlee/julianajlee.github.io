@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "About"
+toc: true
+toc_sticky: true
 ---
 
 # About me.
