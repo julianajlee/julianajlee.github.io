@@ -5,36 +5,21 @@ author_profile: true
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if post.sticky %}
-  <span class="sticky"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endif %}
-  {% endfor %}
+    {% if post.sticky %}
   
-  {% for post in site.posts %}
-  {% unless post.sticky %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endunless %}
-  {% endfor %}
+    <span class="sticky"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
   
+    <div class="post">
+      <h1 class="post-title">
+       <a href="{{"https://julianajlee.github.io/_posts/about-me/"}}">
+         {{ post.title }}
+        </a>
+      </h1>
+
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+
+     {{ post.content }}
+    </div>
+   {% endif %}
+  {% endfor %}
 </div>
