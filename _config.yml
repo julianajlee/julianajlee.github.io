@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Record of my journey"
 title_separator          : " | "
-# subtitle                 : "Record of my journey" # site tagline that appears below site title in masthead
+subtitle                 : "Record of my journey" # site tagline that appears below site title in masthead
 name                     : "Juliana Lee"
 description              : "Quietly documenting many roller coasters of my life."
 url                      : "http://julianajlee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
