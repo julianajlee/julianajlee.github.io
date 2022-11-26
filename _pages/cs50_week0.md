@@ -6,7 +6,7 @@ tags:
   - Python
 toc: true
 ---
-```ruby
+```python
 import csv
 import sys
 
