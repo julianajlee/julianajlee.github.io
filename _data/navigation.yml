@@ -11,9 +11,9 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# main:
-#  - title: "About"
-#    url: "/_pages/about"
+main:
+  - title: "Home"
+    url: https://julianajlee.github.io/
 
 #  - title: "CV"
 #    url: "/_pages/new_updated_CV_v5 - JULIANA LEE.docx"
