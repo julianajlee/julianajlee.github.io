@@ -1,5 +1,5 @@
 ---
-title: "CS50-AI Week 0. Project 1: Tic-Tac-Toe"
+title: "CS50-AI Week 0. Project 2: Tic-Tac-Toe"
 permalink: /_pages/cs50/week0-tictactoe
 tags:
   - cs50
