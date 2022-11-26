@@ -1,11 +1,12 @@
 ---
-title: "cs50-ai week 0"
-permalink: /_pages/cs50/week0
+title: "CS50-AI Week 0. Project 1: Degrees"
+permalink: /_pages/cs50/week0-degrees
 tags:
   - cs50
   - Python
 toc: true
 ---
+
 ```python
 import csv
 import sys
