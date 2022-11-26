@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julianajlee/julianajlee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/images/logo.jpeg"
 # logo                     : "/assets/images/logo.jpeg"
-masthead_title           : "Record of my journey" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Juliana J. Lee" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Juliana J Lee, MSc"
   avatar           : "/assets/images/headshot.png"
-  bio              : "Hi there! <br/> My name is Juliana J. Lee, an **immunology** enthusiast :) <br/>
+  bio              : "Hi there! <br/> My name is Juliana, an **immunology** enthusiast :) <br/>
 What makes a cell, a cell? <br/>
 How are T cells developed? B cells? Macrophages? <br/>
 As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/) community, I am on a mission to profile *epigenomics* and *transcriptomics* of various immune cell types."
