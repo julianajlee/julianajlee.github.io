@@ -134,7 +134,7 @@ As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/covid19recovery/?hl=en"
   toc: true
-  toc_sticky: false
+  toc_sticky: true
 
 # Site Footer
 footer:
@@ -304,7 +304,7 @@ defaults:
       sidebar:
         nav: "docs"
       toc: true
-      toc_sticky: false
+      toc_sticky: true
       
   # _pages
   - scope:
@@ -320,7 +320,7 @@ defaults:
       sidebar:
         nav: "docs"
       toc: true
-      toc_sticky: false
+      toc_sticky: true
       
   # _docs
   - scope:
@@ -336,4 +336,4 @@ defaults:
       sidebar:
         nav: "docs"
       toc: true
-      toc_sticky: false
+      toc_sticky: true
