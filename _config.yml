@@ -133,7 +133,7 @@ As a part of the [Immunological Genome Project (ImmGen)](https://www.immgen.org/
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/covid19recovery/?hl=en"
   toc: true
-  toc_sticky: true
+  toc_sticky: false
 
 # Site Footer
 footer:
