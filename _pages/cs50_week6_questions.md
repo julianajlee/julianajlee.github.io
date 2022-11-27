@@ -113,7 +113,7 @@ def compute_idfs(documents):
         idf[word] = log(len(documents) / count[word])
 
     return idf
-
+ 
 
 def top_files(query, files, idfs, n):
     """
