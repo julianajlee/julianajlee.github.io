@@ -27,7 +27,7 @@ repository               : "julianajlee/julianajlee.github.io" # GitHub username
 # teaser                   : "/assets/images/logo.jpeg"
 # logo                     : "/assets/images/logo.jpeg"
 masthead_title           : "Juliana J. Lee, MSc" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true
+breadcrumbs              : true 
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
