@@ -6,9 +6,6 @@ tags:
 toc: true
 ---
 
-# Education.
-<br/>
-
 ## 2018-2021
 **University  of  Oxford**,  Nuffield  Department  of  Clinical  Medicine  Oxford,  UK
 
