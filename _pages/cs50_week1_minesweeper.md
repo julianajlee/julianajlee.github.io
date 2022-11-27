@@ -6,7 +6,7 @@ tags:
   - Python
 toc: true
 ---
-
+ 
 ```python
 import itertools
 import random
