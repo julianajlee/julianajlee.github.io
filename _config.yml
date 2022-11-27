@@ -106,7 +106,7 @@ analytics:
 author:
   # name             : "Juliana J Lee, MSc"
   avatar           : "/assets/images/headshot.png"
-  # bio              : ""
+  bio              : ""
   location         : "Boston, MA"
   # email            : "juliana_lee@hms.harvard.edu"
   # url              : ""
@@ -218,11 +218,6 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# CSS
-.icon-red {
-  color: red !important;
-}
 
 # Outputting
 permalink: /:categories/:title/
