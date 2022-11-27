@@ -23,7 +23,7 @@ def initial_state():
             [EMPTY, EMPTY, EMPTY],
             [EMPTY, EMPTY, EMPTY]]
 
-
+ 
 def player(board):
     """
     Returns player who has the next turn on a board.
