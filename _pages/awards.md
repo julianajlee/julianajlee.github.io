@@ -5,10 +5,6 @@ tags:
   - Awards
 toc: true
 ---
-
-# Awards
-<br/>
-
 ## 2021
 *Graduate  prize*  
 &emsp;  - Awarded  yearly  to  twelve  students  by  Governing  Body  at  Trinity  College,  University  of  Oxford  
