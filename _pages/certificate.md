@@ -5,10 +5,6 @@ tags:
   - Harvard, CV
 toc: true
 ---
-# Certificate
-
-<br/>
-
 ## 2022
 
 &emsp;  **Harvard  Extension  School** Boston,  MA, US  
