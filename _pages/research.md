@@ -5,8 +5,6 @@ tags:
   - research
 toc: true
 ---
-# Research.
-<br/>
 
 ## 2020-present
 **Research Assistant**, Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
