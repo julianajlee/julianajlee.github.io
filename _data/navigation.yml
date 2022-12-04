@@ -59,6 +59,8 @@ docs:
 
   - title: COVID19 Recovery.
     children:
+      - title: "About"
+        url: _pages/covid19recovery
       - title: "Website"
         url: "https://www.covid19recovery.net"
       - title: "instagram"
