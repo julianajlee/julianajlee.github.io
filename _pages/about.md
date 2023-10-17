@@ -34,7 +34,7 @@ Undergraduate  research  advisor:  Professor  Tania  Watts
 ## Academic journey.
 
 ### 2020-present
-*Research Assistant*, Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
+Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
 
 Project 1:
 - Mapping genome-wide association of histone post-translational modifications (H3K4me1, H3K4me3, H3K27me3, H3K36me3, H3K27ac and H3.3) and chromatin-associated proteins (CTCF) in immune cells by using Cleavage Under Targets & Release Using Nuclease (CUT&RUN) as an Immunological Genome (ImmGen) consortium project 
@@ -48,14 +48,14 @@ Project 2:
 	- Organized and ordered common laboratory materials, resulting in lab members being able to conduct experiments on time with all reagents.
 
 ### 2019-2020
-*MSc by Research in Clinical Medicine*, Douglas Group, Jenner Institute, University of Oxford, UK
+Douglas Group, Jenner Institute, University of Oxford, UK
 
 Thesis: 
 - [A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  parasite  invasion](https://ora.ox.ac.uk/objects/uuid:0529d567-4a65-4abe-9783-5f917abc9aca)
 	- Studied liver stage of malaria by performing high-throughput CRISPR-Cas9 screens to uncover new hepatocyte surface receptors involved in sporozoite invasion, resulting in 1) setting a standard CRISPR-Cas9 screen protocol in studying malaria for general lab use, 2) identification of hepatocyte receptors that play a role in sporozoite invasion and 3) a manuscript in progress.
 
 ### 2017-2018
-*Undergraduate researcher*, Watts Lab, Department of Immunology, University of Toronto, Canada
+Watts Lab, Department of Immunology, University of Toronto, Canada
 
 Project 1: 
 - Effect  of  Type  I  and  Type  II  IFNs  on  GITR  ligand  expression  in  moAPCs
