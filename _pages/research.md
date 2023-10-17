@@ -7,7 +7,7 @@ toc: true
 ---
 
 ## 2020-present
-**Research Assistant**, Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
+Benoist/Mathis Lab, Department of Immunology, Harvard Medical School, USA
 
 **Project 1: *Mapping genome-wide association of histone post-translational modifications (H3K4me1, H3K4me3, H3K27me3, H3K36me3, H3K27ac and H3.3) and chromatin-associated proteins (CTCF) in immune cells by using Cleavage Under Targets & Release Using Nuclease (CUT&RUN) as an Immunological Genome (ImmGen) consortium project***  
 
@@ -23,7 +23,7 @@ toc: true
 
 <br/>
 ## 2019-2020
-**MSc by Research in Clinical Medicine**, Douglas Group, Jenner Institute, University of Oxford, UK
+Douglas Group, Jenner Institute, University of Oxford, UK
 
 Thesis: *[A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  parasite  invasion](https://ora.ox.ac.uk/objects/uuid:0529d567-4a65-4abe-9783-5f917abc9aca)*
 
@@ -31,7 +31,7 @@ Thesis: *[A  CRISPR-Cas9  screen  for  hepatocyte  receptors  for  malaria  para
 
 <br/>
 ## 2017-2018
-**Undergraduate researcher**, Watts Lab, Department of Immunology, University of Toronto, Canada  
+Watts Lab, Department of Immunology, University of Toronto, Canada  
 
 **Project 1: *Effect  of  Type  I  and  Type  II  IFNs  on  GITR  ligand  expression  in  moAPCs***  
 &emsp; - Investigated causal  transcription  factor  binding  sites  for  GITR  ligand  expression  in  response  to  type  I and  II  IFNs  in  RAW264.7,  a  macrophage-like  mouse  cell  line,  using  Gaussia-Cypridina  dual  luciferase reporter assays.  
